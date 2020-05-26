@@ -1,7 +1,7 @@
 package handler
 
 import (
-	std "TAX/CRUD"
+	std "CRUD"
 	"os"
 
 	"io/ioutil"
