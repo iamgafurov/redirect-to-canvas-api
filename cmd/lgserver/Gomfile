@@ -1,0 +1,2 @@
+gom 'github.com/go-chi/chi', :commit => '5704d7ee98edd3fe55169b506531bdd061667c70'
+gom 'github.com/joho/godotenv', :commit => 'd6ee6871f21dd95e76563a90f522ce9fe75443f8'
