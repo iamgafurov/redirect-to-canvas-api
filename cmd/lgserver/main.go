@@ -1,7 +1,7 @@
 package main
 
 import (
-	"TAX/server"
+	"server"
 	"flag"
 	"log"
 	"os"
