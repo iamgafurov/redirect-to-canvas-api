@@ -19,11 +19,9 @@ import (
 func addOrgRouter(orgHandler *handlers.OrgHandler) http.Handler {
 	router := chi.NewRouter()
 
-	//student info
+	
 	router.Get("/", orgHandler.GetClientInfo)
 
-	//SaveBankAccount
-	//router.Get("/student/Assessment/{rb_number:[0-9]+}", orgHandler.GetStudentAssessment)
 
 	return router
 }
