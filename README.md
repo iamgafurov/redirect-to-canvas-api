@@ -5,8 +5,8 @@ go get github.com/mattn/gom
 ```
 ## Istall requirements with gom
 ```shell
-$cd $GOPATH/src/github.com/iamgafurov/redirect-to-canvas-api/cmd/lgserver
-$gom install
+cd $GOPATH/src/github.com/iamgafurov/redirect-to-canvas-api/cmd/lgserver
+gom install
 ```
 
 ## Install and Run
