@@ -1,9 +1,9 @@
 # redirect-to-canvas-api
-#Firstly istall "gom" following command
+## Firstly istall "gom" following command
 ```shell
 go get github.com/mattn/gom
 ```
-#Istall requirements with gom
+## Istall requirements with gom
 ```shell
 $cd $GOPATH/src/github.com/iamgafurov/redirect-to-canvas-api/cmd/lgserver
 $gom install
